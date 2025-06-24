@@ -1,4 +1,4 @@
-# 👩🏻‍💻 David Quintino
+# 👩🏻‍💻​ David Quintino
 
 **`Desenvolvedor FullStack`**
 
