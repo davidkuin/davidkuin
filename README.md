@@ -59,7 +59,6 @@ Me chamo David Quintino Gomes, tenho 34 anos e sou natural de Cubatao-SP. Atualm
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkuin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   /> 
 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidkuin/davidkuin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidkuin/davidkuin/output/github-contribution-grid-snake-dark.svg">
