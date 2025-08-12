@@ -42,7 +42,7 @@
 
 - https://github.com/davidkuin/sistema-bancario
 - https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/davidkuin.md
-
+- https://github.com/davidkuin/dados-dashboard-python
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdvOTNsYWJ2bXdkdnVwejd1emZxeWdtNXg1bHY1dW42NHJiNHM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif" alt="Imagem">
