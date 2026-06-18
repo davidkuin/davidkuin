@@ -12,7 +12,7 @@
 
 <!-- Presentation -->
 <p>
-  Oi 👋, Eu sou o David! Um estudante brasileiro apaixonado por tecnologias.
+  Oi 👋, Eu sou o David!
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Aprendizado de Máquina, o que vir pela frente quero me desafiar em varias areas e obter conhecimentos
 </p>
